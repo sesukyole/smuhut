@@ -1,0 +1,8 @@
+#EXTM3U
+
+########
+#EXTINF:-1 group-title="🟢INFORMASI🟢" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YtOP9bq4OnsDvNR2N1X4Jm-P2NjCPoeXQ9vPwxmVT5SfaEkC0h0U5AkYDVfmcz2adLNDAYF1UO3lUoSws2HSSAU8lqVIRWKF5ir0sjztrsdRLVvYTgUG19aYO37ZxnhEogVzTykQoHf97dx1os26APIGUzd1xDVFKsaPrapXoqDAznI1xcVfxh3bBljJ/s684/Screenshot_20240627-212915_1.jpg" ,LINK DOWNLOAD SCAN QR LOGO
+#EXTVLCOPT:sub-file=https://raw.githubusercontent.com/uhakito/live/main/sub
+#EXTVLCOPT:subsdec-encoding=UTF-8
+https://raw.githubusercontent.com/uhakito/live/main/info.ts
+########
