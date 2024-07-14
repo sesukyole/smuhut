@@ -39,11 +39,6 @@ http://kstv.us:8080/live/tH300gvHff/8606073792/22525.m3u8
 http://kstv.us:8080/live/tH300gvHff/8606073792/15947.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="COPA AMERIKA",CCTV 5 
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/72
-#EXTINF:-1 tvg-logo="http://www.peterealty.com/tv_logos/cctv5.jpg" group-title="COPA AMERIKA",CCTV 5+
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/73
-
 ############# MOTO GP #########
 
 
