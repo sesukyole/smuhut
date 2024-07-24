@@ -5,12 +5,19 @@
 https://raw.githubusercontent.com/uhakito/live/main/info.ts
 ########
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D0I2K9QEXZAo77-2gq83fD23VL8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg" group-title="[LIVE EVENT]",24/07 19:30 Persija Jakarta vs Arema FC - Piala Presiden 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D0I2K9QEXZAo77-2gq83fD23VL8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg" group-title="🟢LIVE EVENT🟢",24/07 19:30 Persija Jakarta vs Arema FC - Piala Presiden 2024
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721837827~acl=/drm/dash/*~id=155691731~hmac=e29a61a05adfe10c59c86e67d41200301dcf8e7eb31e769a3425896770227d7c
 
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🟢LIVE EVENT🟢" , CH 1
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🟢LIVE EVENT🟢" , CH 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
 ############################  DENS TV #############################
 
