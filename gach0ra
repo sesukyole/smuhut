@@ -7,6 +7,12 @@ https://raw.githubusercontent.com/uhakito/live/main/t0p.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/smuhut/pler/main/giphy.gif" group-title="✅ IKLAN ✅", HOT LIVE APK
 https://raw.githubusercontent.com/smuhut/pler/main/ads.mp4
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D0I2K9QEXZAo77-2gq83fD23VL8=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3605488/9d07b8.jpg" group-title="[LIVE EVENT]",24/07 19:30 Persija Jakarta vs Arema FC - Piala Presiden 2024
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721837827~acl=/drm/dash/*~id=155691731~hmac=e29a61a05adfe10c59c86e67d41200301dcf8e7eb31e769a3425896770227d7c
+
 #EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTa2yc1SM4bUSE1-v39HgCjm2KGOLutnmvLMMKoEI266Q.png" group-title="✅ LOKAL ID",TRANS 7
 https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/6.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="TransTV" tvg-name="TRANS TV" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLjPiejPtrhp_TZeZj9yC8LTLROIL00EakzlOIzd0BriqZUXbdFrlp3O_zS9Du8j9tk.png" group-title="✅ LOKAL ID",TRANS TV
