@@ -13,6 +13,12 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/mani
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🟢LIVE EVENT🟢" , CH 2
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="🟢LIVE EVENT🟢", CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="🟢LIVE EVENT🟢", CCTV5plus
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+
 ############################  DENS TV #############################
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="CHANNEL | DENS TV", Live Streaming 1
