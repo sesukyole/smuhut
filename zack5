@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/smuhut/pler/main/giphy.gif" group-title="✅ IKLAN ✅", KODE ZALTV
 https://raw.githubusercontent.com/uhakito/live/main/t0p.mp4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/smuhut/pler/main/giphy.gif" group-title="✅ IKLAN ✅", HOT LIVE APK
+https://raw.githubusercontent.com/smuhut/pler/main/ads.mp4
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://hometv.pw/logo/lokal/mnctv.png" group-title="NASIONAL",MNC TV 
 #EXTVLCOPT:http-user-agent=android-R+
