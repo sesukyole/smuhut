@@ -1,16 +1,26 @@
 ﻿#EXTM3U
 
-//========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> NATIONAL
-//========================================================================
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/smuhut/pler/main/giphy.gif" group-title="✅ IKLAN ✅", HOT LIVE APK
+https://raw.githubusercontent.com/smuhut/pler/main/ads.mp4
+
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🟢LIVE EVENT🟢" , CH 1
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🟢LIVE EVENT🟢" , CH 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="🟢LIVE EVENT🟢", CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5g26UzU.png" group-title="🟢LIVE EVENT🟢", CCTV5plus
+https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="National",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="National",Antara
-#
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
