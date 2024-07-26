@@ -6,6 +6,12 @@ https://raw.githubusercontent.com/uhakito/live/main/info.ts
 ##################################################################
 
 
+#EXTINF:-1 group-title="⚽ LIVE EVENT ⚽" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1722010472~acl=/drm/dash/*~id=164396008~hmac=60b7a81608e7c9d154f6e29d0447d917564071ae7864515fb260bad74f580044
 
 #EXTINF:-1 tvg-logo="https://img.nbc.com/files/2024-07/nbc-olympics-white-logo-300x300.png?impolicy=nbc_com&imwidth=1400&imdensity=1" group-title="OLYMPIC PARIS 2024",MEDIACORP LIVE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
